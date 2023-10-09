@@ -20,7 +20,7 @@ console.log(greetign);
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>Answer is A. Because you have assigned a variable name but have not assign it. So there is an error. As greetings is not defined.</i>
 
 </p>
 </details>
@@ -45,7 +45,7 @@ sum(1, "2");
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>As 1 is a number and 2 is string. To sum these using function it will be congcatinate and give a result of "12". So the Correct answer is C</i>
 
 </p>
 </details>
@@ -71,7 +71,7 @@ console.log(food);
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>The correct answer is A. Because info object with the property of favouritefood initially referrce to the first element of the food. So no changes occour in this place </i>
 
 </p>
 </details>
@@ -96,7 +96,7 @@ console.log(sayHi());
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>In above question sayHi fuction receives a parameter name and return name value but when console log it, you have not pass the arrgument So the result is B</i>
 
 </p>
 </details>
@@ -124,7 +124,7 @@ console.log(count);
 
 #### Answer: ?
 
-<i>Write your explanation here</i>
+<i>The answer will be 4, as in each forEach loop it found 4 elements and incremented 1, the initial value is 0. So the final value is 4</i>
 
 </p>
 </details>
